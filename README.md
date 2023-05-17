@@ -49,6 +49,10 @@ Confusion matrix:
 
 [  3 112]]
 
+FEATURE IMPORTANCE: 
+
+![FEATURE IMPORTANCE](https://github.com/IgnaLS/Group-11-Machine-Learning-Project/assets/132266002/1fa9022b-a634-4e09-be2d-0eb21df0ff9f)
+
 ADABOOST  metrics (through cross-validation):
 
 Precision: [0.99520767 0.99115044], Recall: [0.99839744 0.97391304], F1 score: [0.9968     0.98245614]
