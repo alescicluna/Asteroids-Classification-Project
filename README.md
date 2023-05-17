@@ -61,7 +61,7 @@ Confusion matrix:
 
 RANDOM FOREST WITH UNDERSAMPLING 
 
-Precision: [1.        0.5450237], Recall: [0.84615385 1.        ], F1 score: [0.91666667 0.70552147], Support: [624 115]
+Precision: [1.        0.5450237], Recall: [0.84615385 1.        ], F1 score: [0.91666667 0.70552147]
 
 Confusion matrix: 
 
