@@ -36,22 +36,12 @@ Random Forest and AdaBoost ROC Curve:
 
 LOGISTIC REGRESSION metrics (through cross-validation):
 
-MEAN accuracy score: 0.8742609381158848
-
-MEAN Precision: 0.7127491187862705
-
-MEAN Recall: 0.32524990744168825
-
-MEAN F1 score: 0.44574552562458003
+MEAN accuracy score: 0.8742609381158848, MEAN Precision: 0.7127491187862705, MEAN Recall: 0.32524990744168825, MEAN F1 score: 0.44574552562458003
 
 
 RANDOM FOREST metrics (through cross-validation):
 
-Precision: [0.9952     0.98245614]
-
-Recall: [0.99679487 0.97391304]
-
-F1 score: [0.9959968  0.97816594]
+Precision: [0.9952     0.98245614], Recall: [0.99679487 0.97391304], F1 score: [0.9959968  0.97816594]
 
 Confusion matrix: 
 
@@ -61,11 +51,7 @@ Confusion matrix:
 
 ADABOOST  metrics (through cross-validation):
 
-Precision: [0.99520767 0.99115044]
-
-Recall: [0.99839744 0.97391304]
-
-F1 score: [0.9968     0.98245614]
+Precision: [0.99520767 0.99115044], Recall: [0.99839744 0.97391304], F1 score: [0.9968     0.98245614]
 
 Confusion matrix: 
 
@@ -75,13 +61,7 @@ Confusion matrix:
 
 RANDOM FOREST WITH UNDERSAMPLING 
 
-Precision: [1.        0.5450237]
-
-Recall: [0.84615385 1.        ]
-
-F1 score: [0.91666667 0.70552147]
-
-Support: [624 115]
+Precision: [1.        0.5450237], Recall: [0.84615385 1.        ], F1 score: [0.91666667 0.70552147], Support: [624 115]
 
 Confusion matrix: 
 
